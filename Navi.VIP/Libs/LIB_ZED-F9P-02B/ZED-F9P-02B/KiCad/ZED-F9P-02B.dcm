@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ZED-F9P-02B
+D MOD RF RECEIVER GNSS 54LGA
+K
+F https://www.u-blox.com/sites/default/files/ZED-F9P_DataSheet_%28UBX-17051259%29.pdf
+$ENDCMP
+#
+#End Doc Library

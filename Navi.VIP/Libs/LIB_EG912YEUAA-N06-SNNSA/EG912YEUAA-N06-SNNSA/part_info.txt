@@ -1,0 +1,9 @@
+Manufacturer=Quectel
+PartNumber=EG912YEUAA-N06-SNNSA
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=106
+Version=1.4
+Released=2020-11-05 10:17:00
+Downloaded=2023-04-30 17:43:56
+3D=Y

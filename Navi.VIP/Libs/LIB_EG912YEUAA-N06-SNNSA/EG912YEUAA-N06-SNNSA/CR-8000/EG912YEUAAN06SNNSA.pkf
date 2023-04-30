@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "EG912YEUAAN06SNNSA"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "EG912YEUAAN06SNNSA")
+        (spec "default")
+    )
+)

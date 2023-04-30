@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EG912YEUAA-N06-SNNSA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-11-05-10:17:00)
+    (mountForm default
+        (footprintRef "EG912YEUAAN06SNNSA")
+        (spec "System")
+    )
+)

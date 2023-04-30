@@ -1,0 +1,9 @@
+Manufacturer=U-Blox
+PartNumber=ZED-F9P-02B
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=102
+Version=1.2
+Released=2020-11-20 13:28:29
+Downloaded=2023-04-30 17:40:29
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32WB55RCV6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32WB55RCV6" (!) = "", "QFN40P800X800X100-69N-D", "Quad Flat No-Lead", "511-STM32WB55RCV6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32WB55RCV6?qs=vLWxofP3U2y%2F21YKkPUpfQ%3D%3D", "STM32WB55RCV6", "https://www.arrow.com/en/products/stm32wb55rcv6/stmicroelectronics?region=nac", "Bluetooth v5.0 and 802.15.4 With Microcontroller Combo module", "https://www.mouser.com/datasheet/2/389/stm32wb55rc-1588898.pdf", "1 mm"
+END_PART
+
+END.

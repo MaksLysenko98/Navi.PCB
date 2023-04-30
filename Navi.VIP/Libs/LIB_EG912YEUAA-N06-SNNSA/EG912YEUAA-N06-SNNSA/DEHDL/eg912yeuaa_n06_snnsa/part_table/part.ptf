@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EG912YEUAA_N06_SNNSA'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Quectel", "EG912YEUAA-N06-SNNSA" (!) = "", "EG912YEUAAN06SNNSA", "Other", "277-EG912YEUAN6SNNSA", "https://www.mouser.co.uk/ProductDetail/Quectel/EG912YEUAA-N06-SNNSA?qs=zW32dvEIR3tlKTTxnXn4Aw%3D%3D", "EG912YEUAA-N06-SNNSA", "https://www.arrow.com/en/products/eg912yeuaa-n06-snnsa/quectel-wireless-solutions-co-ltd?region=nac", "DESCRIPTION PLACE HOLDER", "", "2.5 mm"
+END_PART
+
+END.

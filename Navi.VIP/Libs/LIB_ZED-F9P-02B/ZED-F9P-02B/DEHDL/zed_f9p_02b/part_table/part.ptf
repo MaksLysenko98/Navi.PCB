@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ZED_F9P_02B'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "U-Blox", "ZED-F9P-02B" (!) = "", "ZEDF9P02B", "Other", "377-ZED-F9P-02B", "https://www.mouser.co.uk/ProductDetail/u-blox/ZED-F9P-02B?qs=DPoM0jnrROVJit2O2Grdqw%3D%3D", "", "", "MOD RF RECEIVER GNSS 54LGA", "https://www.u-blox.com/sites/default/files/ZED-F9P_DataSheet_%28UBX-17051259%29.pdf", "2.6 mm"
+END_PART
+
+END.
